@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to NicoleKimCreates.com"
+title:  "Welcome to NicoleKimCreates.com"!
 date:   2023-03-01 22:43:40 +0900
 categories: jekyll update
 ---
 
-Welcome to NicoleKimCreates.com. I will update my theories and artworks here.
+Hello. Welcome to Nicole Kim Creates.com. I will update my theories and artworks here.
 
 {% highlight ruby %}
 def print_hi(name)
