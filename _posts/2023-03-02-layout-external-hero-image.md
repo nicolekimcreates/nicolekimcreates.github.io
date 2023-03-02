@@ -9,7 +9,7 @@ tags:
   - content
   - image
   - layout
-last_modified_at: 2017-03-17T10:46:49-04:00
+last_modified_at: 2023-03-02T10:46:49-04:00
 ---
 
 This post should display a large hero image at the top of a page.
