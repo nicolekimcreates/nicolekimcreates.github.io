@@ -52,3 +52,6 @@ navigation_pages:
   - recipes.md
   - about.md
   - cv.md
+  - posts.md
+  - tags.md
+  - categories.md
