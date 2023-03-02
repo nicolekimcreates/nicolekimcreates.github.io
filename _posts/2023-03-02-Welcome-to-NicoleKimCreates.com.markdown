@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to NicoleKimCreates.com"!
-date:   2023-03-01 22:43:40 +0900
+title:  "Welcome to NicoleKimCreates.com"
+date:   2023-03-02 22:43:40 +0900
 categories: jekyll update
 ---
 
