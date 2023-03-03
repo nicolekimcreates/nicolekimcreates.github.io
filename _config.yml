@@ -33,6 +33,8 @@ collections:
 
 # Front Matter Defaults
 defaults:
+
+plugins: - jekyll-sitemap
   # _posts
   - scope:
       path: "_posts"
